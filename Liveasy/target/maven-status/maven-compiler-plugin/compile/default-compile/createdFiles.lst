@@ -1,0 +1,9 @@
+cc\liveasy\Dao\DaoIMPL\TruckDaoIMPL.class
+cc\liveasy\Model\TruckDetails.class
+cc\liveasy\LiveasyApplication.class
+cc\liveasy\RowMapper\TruckRowMapper.class
+cc\liveasy\Dao\TruckDao.class
+cc\liveasy\Service\ServiceIMPL\TruckServiceIMPL.class
+cc\liveasy\Controller\TruckController.class
+cc\liveasy\Exception\liveasyException.class
+cc\liveasy\Service\TruckService.class
